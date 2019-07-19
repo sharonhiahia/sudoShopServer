@@ -1,1 +1,14 @@
-// test
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "hello",
+      "url": "none",
+      "storage": 50,
+      "price": 99.99
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
